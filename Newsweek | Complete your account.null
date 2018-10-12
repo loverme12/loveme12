@@ -1,0 +1,846 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://subscription.newsweek.com/auth
+Subject: Newsweek | Complete your account
+Date: Fri, 12 Oct 2018 03:50:27 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----"
+
+
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/html
+Content-ID: <frame-EEFF755579CD73FEEBDF1C50FE42638F@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://subscription.newsweek.com/auth
+
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<link rel="apple-touch-icon" sizes="76x76" href="https://subscription.newsweek.com/icon/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://subscription.newsweek.com/icon/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://subscription.newsweek.com/icon/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://subscription.newsweek.com/icon/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://subscription.newsweek.com/icon/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://subscription.newsweek.com/icon/apple-touch-icon-180x180.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://subscription.newsweek.com/icon/apple-touch-icon-60x60.png">
+		<link rel="icon" type="image/png" href="https://subscription.newsweek.com/icon/favicon-192x192.png" sizes="192x192">
+		<meta name="msapplication-TileColor" content="#ff0000">
+		<meta name="msapplication-TileImage" content="/icon/mstile-144x144.png">
+		<meta name="msapplication-config" content="/icon/browserconfig.xml">
+		<link rel="icon" type="image/png" href="https://subscription.newsweek.com/icon/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://subscription.newsweek.com/icon/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="https://subscription.newsweek.com/icon/favicon-160x160.png" sizes="160x160">
+		<link rel="icon" type="image/png" href="https://subscription.newsweek.com/icon/favicon-96x96.png" sizes="96x96">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://subscription.newsweek.com/icon/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="57x57" href="https://subscription.newsweek.com/icon/apple-touch-icon-57x57.png">
+        <meta name="msapplication-TileColor" content="#ff0000">
+        <meta name="msapplication-TileImage" content="/sites/www.newsweek.com/themes/newsweek/favicons/mstile-144x144.png">
+        <meta name="msapplication-config" content="/sites/www.newsweek.com/themes/newsweek/favicons/browserconfig.xml">
+        <title>Newsweek | Complete your account</title>
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/html5-reset.css?ver=1.0.04">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/grid.css?ver=1.0.03">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/style.css?ver=1.0.10">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/hosted-package.css?ver=1.0.04">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/hosted-package-selection.css?ver=1.0.05">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/mq-hosted-package.css?ver=1.0.04">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/mq-hosted-package-selection.css?ver=1.0.07">
+        <link rel="stylesheet" href="https://g1.newsweek.com/www/css/oct2015/media-queries.css?ver=1.0.04"> 
+		<style>
+            a {
+                color: red;
+            }
+
+            .page-grey {
+
+                background: #e6e6e6;
+
+            }
+
+            .page-grey .page-header, .page-grey .content-container {
+
+                background: #fff;
+
+            }
+
+            .page-grey .content-container {
+
+                box-shadow: 0 3px 5px #ccc;
+                padding: 15px 25px;
+                width: 100%;
+
+            }
+
+            .img-subscription-packages {
+
+                float: left;
+
+            }
+
+            .hr-light {
+
+                border-color: #ddd;
+                margin: 20px 0;
+
+            }
+
+            .account-pricing-table {
+
+                border: 1px solid #eee;
+                font-size: 14px;
+
+            }
+
+            .account-pricing-table td {
+
+                border: 1px solid #eee;
+                padding: 10px;
+
+            }
+
+            .thank-you-form fieldset {
+
+                border: 0;
+                padding: 0;
+                margin: 0;
+
+            }
+
+            .form-wrapper {
+
+                display: inline-block;
+                position: relative;
+
+            }
+
+            .thank-you-form label {
+                position: absolute;
+                top: 50%;
+                left: 10px;
+                -webkit-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+                font-family: "Georgia", "Cambria", "Times New Roman", "Times", serif;
+                font-style: italic;
+                font-size: 18px;
+                color: #999;
+                pointer-events: none;
+                -webkit-transition: all 0.15s ease-out 0s;
+                transition: all 0.15s ease-out 0s;
+            }
+
+            .thank-you-form input {
+
+                height: 40px;
+                line-height: 40px;
+
+            }
+
+            .thank-you-form input[type=password], .thank-you-form textarea {
+
+                border: 1px solid #ddd;
+                box-shadow: 0 2px 3px #eee inset;
+                padding: 5px 7px;
+
+            }
+
+            .thank-you-form input[type=submit] {
+
+                background: #cd0c13;
+                color: #fff;
+                padding: 0 15px;
+
+            }
+
+            .thank-you-form input:focus + label,
+            .thank-you-form input.has-value + label {
+                top: -10px;
+                font-size: 12px;
+                color: #aaa;
+            }
+
+            .account-menu-wrap {
+
+                transition: all ease .3s;
+
+            }
+
+            .account-menu-wrap.is-fixed {
+
+                left: 0;
+                padding: 5px 0;
+                position: fixed;
+                top: 0;
+
+            }
+
+            .account-menu {
+
+                text-align: center;
+
+            }
+
+            .account-menu li {
+
+                display: inline-block;
+                width: 25%;
+
+            }
+
+            .account-menu a {
+
+                color: #333;
+                font-weight: 900;
+                display: block;
+
+            }
+
+            .account-menu .active a {
+
+                font-weight: 900;
+
+            }
+
+            .account-menu .active a:hover {
+
+                cursor: default;
+                text-decoration: none;
+
+            }
+
+            .webform-client-form .inner-wrap {
+                border-right:1px solid #e5e5e5;
+                padding-right:30px;
+                margin-right:30px
+            }
+
+            .contact-us-left > p {
+                margin-bottom:0
+            }
+
+            .webform-client-form label {
+                font:bold italic 18px/20px Georgia,"Times New Roman",Times,serif;
+                padding-bottom:5px
+            }
+
+            .webform-client-form input, .webform-client-form select {
+
+                height: 40px;
+                line-height: 40px;
+
+            }
+
+            .webform-client-form select {
+
+                border: 1px solid #ccc;
+
+            }
+
+            .webform-client-form input.form-text, .webform-client-form textarea {
+                width:100%;
+                background-color:#f2f2f2;
+                font:italic 18px/20px Georgia,"Times New Roman",Times,serif;
+                text-indent:10px
+            }
+
+            .webform-client-form textarea {
+
+                min-height: 100px;
+
+            }
+
+            .webform-client-form .description {
+                font:italic 14px/18px Georgia,"Times New Roman",Times,serif;
+                color:#333;
+                padding-top:5px
+            }
+
+            .form-wrapper-submit {
+
+                text-align: right;
+
+            }
+
+            .webform-client-form input.form-submit {
+                background-color:#ed1c24;
+                color:#fff;
+                font:bold italic 16px/20px Georgia,"Times New Roman",Times,serif;
+                text-align:center;
+                cursor:pointer;
+                -webkit-appearance:none;
+                border-radius:0;
+                padding: 0 20px;
+            }
+
+            .webform-client-form input.form-submit#edit-submit-google {
+                background-color:transparent
+            }
+
+            .webform-client-form input.form-submit:hover {
+                background-color:#000;
+                -webkit-transition:all .3s ease;
+                -moz-transition:all .3s ease;
+                -o-transition:all .3s ease;
+                transition:all .3s ease
+            }
+
+            .webform-client-form {
+                padding:10px 20px 5px;
+                background-color:#fff;
+                border:10px solid #f2f2f2;
+                margin: 20px 0 10px;
+            }
+
+            .webform-client-form p {
+                font:18px/24px Georgia,"Times New Roman",Times,serif;
+                text-align:center
+            }
+
+            .webform-client-form p .placeholder {
+                color:red;
+                font-weight:700
+            }
+
+            .form-item,.form-actions {
+                margin-top:1em;
+                margin-bottom:1em
+            }
+
+            @media (max-width:767px) {
+                .webform-client-form {
+                    float:none;
+                    width:100%
+                }
+
+                .webform-client-form .inner-wrap {
+                    border-right:0 solid #E5E5E5;
+                    margin-right:0;
+                    padding-right:0
+                }
+            }
+
+            @media all and (min-width: 768px) {
+
+
+                .thank-you-form input[type=password] {
+
+                    width: 200px;
+
+                }
+
+            }
+			
+			#details { min-height: 400px; font-size:21px; }
+			.success * { vertical-align: middle; }
+			.fail { background:#fe0000 !important; color:#fff; padding:0 !important; }
+			.fail * { vertical-align: middle; }
+			.success { background:#249b3d !important; color:#fff; padding:0 !important; }
+			.success img, .fail img { margin-right:10px; display:inline-block; }
+        </style>
+        
+	
+    
+	
+	
+
+
+
+  
+
+<meta name="com.silverpop.brandeddomains" content="www.pages06.net,amp.ibtimes.co.uk,e-amp.newsweek.com,e-sns.newsweek.com,europe.newsweek.com,ibtimes.co.uk,newsweek.com,sns.europe.newsweek.com,sns.ibtimes.co.uk,www.ibtimes.co.uk">
+<meta name="com.silverpop.cothost" content="pod6.ibmmarketingcloud.com">
+<!--script async="async" src="//zdwidget3-bs.sphereup.com/zoomd/SearchUi/Script?clientId=99487471"></script-->    <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=subscription.newsweek.com" as="script"></head>
+    <body class="page-grey">
+		<!-- Google Tag Manager (noscript) -->
+
+<!-- End Google Tag Manager (noscript) -->
+<header class="header header__red">
+    <div class="container">
+        <nav class="nav header--nav header--nav__with-menu">
+            <ul>
+                <li>
+                    <a href="http://www.newsweek.com/" class="d__block header--logo header--logo__float">
+                        <img src="https://g.europe.newsweek.com/www/img/home/logo_newsweek.gif" alt="Newsweek">
+                    </a>
+                </li>
+                                <!--li><a href="" class="d__block header--link"></a></li-->
+                                            </ul>
+        </nav>
+        <div id="mydiv"></div>
+    </div>
+</header>
+
+			<section class="container page-body" id="page--body">
+        		<div class="col-md-12 fail" style="display:none;">  Invalid access
+        
+                </div>
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> We couldn't find your email address or username in our system, please double check that you entered it correctly.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> The password you entered did not match the email address or username provided, please try again.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> Your account has been blocked by our moderator, please contact support@newsweek.com to regain access to the site.
+                </div>
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> Your account needs to be activated. <a href="https://subscription.newsweek.com/auth" class="resend">Resend activation email.</a>
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> Due to suspicious activity, your account has been temporarily disabled. Please contact email address to organise the reactivation of your account
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> Due to previous suspicious activity, your account has been temporarily disabled. Please contact email address to organise the reactivation of your account
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> Activation email has been sent.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> We can not send you an activation email this time. Please register with another email address.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;background:#249b3d !important;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-success-icon.jpg"> You are already registered, please sign in below.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;background:#249b3d !important;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-success-icon.jpg"> Hi , You're signed in with . Please log into your Newsweek account.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> The password you entered did not match the confirm password, please try again.
+                </div>
+        
+                <div class="col-md-12 fail" style="display:none;">
+                    <img src="https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg"> The password should be at least 7 letters, please try again.
+                </div>
+
+			</section>
+		
+			<section id="details" class="container page-body">
+
+                <div class="content-container">
+
+                    <header>
+                        <h2>SIGN IN</h2>
+                    </header>
+
+
+                    <form class="webform-client-form webform-client-form-22" action="https://subscription.newsweek.com/auth/pro" method="post" id="webform-client-form-22" accept-charset="UTF-8">
+                        
+                        
+                                            
+                        
+						<div>
+                            <div class="form-item webform-component webform-component-textfield webform-component--first-name">
+                                <label for="edit-submitted-email">Email address</label>
+                                <input type="email" name="email" id="email" value="" required="" class="form-text required">
+                            </div>
+                            
+                            <div class="form-item webform-component webform-component-textfield webform-component--first-name">
+                                <label for="edit-submitted-email">Password</label>
+                                <input type="password" name="password" id="password" value="" required="" class="form-text required">
+                                <a href="https://subscription.newsweek.com/user/reset" target="_blank" style="font-size:16px;">Forgot password?</a>
+                            </div>                            
+
+                            <div class="form-actions form-wrapper-submit">
+                                <input class="webform-submit button-primary form-submit" type="submit" name="op" value="Submit">
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </section>
+
+            <div id="dfp-ad-bottom-wrapper" class="dfp-bleaderboard dfp-block dfp-tline">
+                <div class="container">
+                    <div id="div-gpt-ad-Top1"></div>
+                </div>
+            </div>
+            <div id="dfp-ad-oop1-wrapper" class="dfp-tag-wrapper element-hidden"><div id="div-gpt-ad-oop1"></div></div>
+            <div id="dfp-ad-oop2-wrapper" class="dfp-tag-wrapper element-hidden"><div id="div-gpt-ad-oop2"></div></div>
+  
+			<footer class="full-width footer header__red" style="padding-bottom:13px;">
+    <div class="container">
+        <nav class="nav header--nav header--nav__with-menu">
+            <ul>
+                <li class="d__block">
+                    <a href="http://www.newsweek.com/" class="header--logo header--logo__float">
+                        <img src="https://g.europe.newsweek.com/www/img/home/logo_newsweek.gif" alt="Newsweek">
+                    </a>
+                </li>
+                <!--li class="d__inline-block"><a href="http://europe.newsweek.com/contact" class="d__block header--link"><abbr title="Frequently asked questions">FAQs</abbr></a></li-->
+                <li class="d__inline-block"><a href="http://www.newsweek.com/about-newsweek" class="d__block header--link" target="_blank">About Newsweek</a></li>
+                <li class="d__inline-block"><a href="http://www.newsweek.com/terms-service" class="d__block header--link" target="_blank">Terms</a></li>
+
+            </ul>
+        </nav>
+    </div>
+</footer>
+            
+
+
+
+</body></html>
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/html5-reset.css?ver=1.0.04
+
+@charset "utf-8";
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video { margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 100%; vertical-align: baseline; background: transparent; }
+
+body { line-height: 1; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+nav ul { list-style: none; }
+
+blockquote, q { quotes: none; }
+
+blockquote::before, blockquote::after, q::before, q::after { content: none; }
+
+a { margin: 0px; padding: 0px; font-size: 100%; vertical-align: baseline; background: transparent; }
+
+ins { background-color: rgb(255, 255, 153); color: rgb(0, 0, 0); text-decoration: none; }
+
+mark { background-color: rgb(255, 255, 153); color: rgb(0, 0, 0); font-style: italic; font-weight: bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+hr { display: block; height: 1px; border-width: 1px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 1em 0px; padding: 0px; }
+
+input, select { vertical-align: middle; }
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/grid.css?ver=1.0.03
+
+@charset "utf-8";
+
+.container { margin: 0px auto; width: 95%; }
+
+@media (min-width: 1300px) {
+  .container { width: 1280px; }
+}
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/style.css?ver=1.0.10
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+img { max-width: 100%; }
+
+body { background: rgb(235, 235, 235); font-family: "Source Sans Pro", Arial, Helvetica, sans-serif; font-size: 16px; }
+
+.half-width { width: 50%; }
+
+.full-width { width: 100%; }
+
+.p-relative { position: relative; }
+
+.anchored { bottom: 0px; left: 0px; position: fixed; z-index: 10; }
+
+.hide--small { display: none; }
+
+.d__none { display: none; }
+
+.d__block { display: block; }
+
+.d__inline-block { display: inline-block; }
+
+.tooltip { border: 2px solid rgb(203, 203, 203); border-radius: 100%; color: rgb(171, 171, 171); display: inline-block; float: right; font-size: 14px; font-style: italic; height: 20px; line-height: 16px; position: relative; text-align: center; width: 20px; }
+
+.tooltip--title { background: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); border-radius: 3px; box-shadow: rgb(204, 204, 204) 0px 1px 3px; color: rgb(51, 51, 51); line-height: 20px; padding: 10px; position: absolute; top: 24px; right: 0px; width: 270px; z-index: 1; }
+
+.tooltip--title::after { background: rgb(0, 0, 0); border-color: rgb(245, 245, 245) rgb(245, 245, 245) rgb(204, 204, 204); border-style: solid; border-width: 0px 7px 7px; content: ""; position: absolute; right: 1px; top: -8px; }
+
+.tooltip--information { color: rgb(155, 155, 153); position: absolute; right: 20px; top: 0px; }
+
+.tabbed-content--menu { display: block; text-decoration: none; }
+
+.tabbed-content--section { display: none; }
+
+#tab-1 { display: block; }
+
+.tick__white { color: rgb(255, 255, 255); }
+
+.tick__green { color: green; }
+
+a { color: red; text-decoration: none; }
+
+p { line-height: 1.6em; margin-bottom: 1em; }
+
+p:last-child { margin: 0px; }
+
+.card { background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px; margin-bottom: 2em; padding: 20px; }
+
+.title--section { border-bottom: 1px solid rgb(219, 219, 219); font-size: 1.5em; margin-bottom: 1em; padding-bottom: 0.5em; }
+
+.header { }
+
+.header__red { background: rgb(255, 5, 0); }
+
+.header--nav { padding: 1em 0px 0px; position: relative; }
+
+.header--link { border: 2px solid rgb(255, 255, 255); border-radius: 0px; color: rgb(255, 255, 255); font-weight: 700; height: 40px; line-height: 40px; padding: 0px 15px; text-decoration: none; transition: all 0.2s ease 0s; }
+
+.header--link__active { border-color: rgb(255, 255, 255); }
+
+.header--link__active:hover { cursor: default; }
+
+.header--link:not(.header--link__active):hover { border-color: rgba(255, 255, 255, 0.6); }
+
+.header--link abbr { border: none; }
+
+.payment-overlay-wrapper { background: red; border-radius: 10px; box-shadow: rgb(102, 102, 102) 0px 0px 10px; color: rgb(255, 255, 255); left: 50%; position: relative; top: 50%; text-align: center; }
+
+.payment-overlay-wrapper h1 { font-size: 27px; margin: 0px 20px 20px; }
+
+.payment-overlay-wrapper p { font-size: 20px; line-height: 24px; }
+
+.payment-overlay-wrapper--dd { height: 270px; margin: -100px 0px 0px -47.5%; padding: 30px 0px; width: 95%; }
+
+.payment-overlay-wrapper--dd h1 { font-size: 20px; }
+
+.payment-overlay-wrapper--dd input[type="submit"] { background: rgb(255, 255, 255); border: none; color: red; font-size: 16px; font-weight: 700; height: 40px; line-height: 40px; padding: 0px 15px; }
+
+.payment-overlay-wrapper--animated { animation-duration: 2s; animation-fill-mode: both; animation-timing-function: ease-in-out; animation-iteration-count: infinite; animation-name: bounce; height: 200px; margin: -100px 0px 0px -100px; padding-top: 50px; width: 200px; }
+
+.payment-overlay-wrapper--animated img { width: 160px; margin: 0px auto 20px; }
+
+@-webkit-keyframes bounce { 
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0px); }
+  40% { transform: translateY(-20px); }
+  60% { transform: translateY(-10px); }
+}
+
+@keyframes bounce { 
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0px); }
+  40% { transform: translateY(-20px); }
+  60% { transform: translateY(-10px); }
+}
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/hosted-package.css?ver=1.0.04
+
+@charset "utf-8";
+
+.header--country-select { color: rgb(255, 255, 255); font-weight: 700; padding-bottom: 0.3em; text-decoration: none; }
+
+.header--country-select span { border-bottom: 1px solid rgb(255, 255, 255); }
+
+.checkout-progress { background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 10px; padding: 1em 0px; }
+
+.checkout-progress--link { background: rgb(245, 245, 245); border: 1px solid rgb(203, 203, 203); border-radius: 40px; color: rgb(59, 59, 59); line-height: 2em; text-align: center; text-decoration: none; }
+
+.checkout-progress--link, .checkout-progress--selection { font-size: 0.8em; }
+
+.checkout-progress--status { height: 2em; width: 2em; }
+
+.checkout-progress--link__active { background: rgb(255, 255, 255); padding-right: 1em; width: auto; }
+
+.checkout-progress--link__active:hover { cursor: default; }
+
+.checkout-progress--link--divider { margin: 0px 2.7em; position: relative; }
+
+.checkout-progress--link--divider::before, .checkout-progress--link--divider::after { background: rgb(203, 203, 203); content: ""; height: 1px; position: absolute; top: 50%; width: 3em; }
+
+.checkout-progress--link--divider::before { left: -3em; }
+
+.checkout-progress--link--divider::after { right: -3em; }
+
+.checkout-progress--status__active { border-radius: 40px; display: inline-block; height: 2em; width: 2em; }
+
+.checkout-progress--proceed { border: 1px solid rgb(203, 203, 203); border-radius: 40px; font-weight: 700; padding-left: 1em; }
+
+.checkout-progress--proceed li:nth-child(2) { margin: 0px 2em; }
+
+.checkout-progress--button { background: red; border-radius: 40px; color: rgb(255, 255, 255); height: 2em; line-height: 2em; margin-left: 1em; padding: 0px 1em; text-decoration: none; }
+
+.faq--accordion { margin-top: 20px; }
+
+.faq--container h3 { border-bottom: 1px solid rgb(221, 221, 221); margin-bottom: 0.5em; padding-bottom: 0.5em; }
+
+.faq--pane { margin-bottom: 2em; }
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/hosted-package-selection.css?ver=1.0.05
+
+@charset "utf-8";
+
+.sash { font-size: 14px; font-weight: 700; left: -44px; padding: 10px 60px; position: absolute; text-align: center; top: 35px; transform: rotate(-45deg); }
+
+.sash__yellow { background: rgb(251, 236, 63); color: rgb(0, 0, 0); }
+
+.packages--module { background: rgb(245, 245, 245); list-style: none; overflow: hidden; position: relative; }
+
+.packages--module.disabled { display: none; }
+
+.packages--module__active { background: rgb(255, 255, 255); }
+
+.packages--module img { display: block; margin: 0px auto 1em; }
+
+.packages--module h2 { font-size: 2em; font-weight: bold; line-height: 1em; text-align: center; }
+
+.packages--module--details { font-weight: 700; list-style: none; margin: 0.7em 0px; position: relative; }
+
+.package-button { border: 2px solid rgb(203, 203, 203); border-radius: 10px; color: rgb(59, 59, 59); font-weight: 700; height: 4em; line-height: 4em; padding-left: 1em; position: relative; }
+
+.package-price { font-size: 2em; padding: 0.5em 0px; }
+
+.package-select { background: rgb(235, 235, 235); border: 2px solid rgb(203, 203, 203); border-radius: 0px 10px 10px 0px; line-height: 3.8em; padding: 0px 15px; position: absolute; right: -2px; top: -2px; }
+
+.package-select--tick { left: 10px; position: absolute; top: 15px; }
+
+.package-button:hover, .package-button__active, .package-button:hover .package-select, .package-button__active .package-select { border-color: rgb(0, 165, 93); background: rgb(0, 165, 93); color: rgb(255, 255, 255); }
+
+.packages--form--selection { border: 2px solid rgb(203, 203, 203); font-size: 14px; font-weight: 700; height: 2.5em; margin-bottom: 0.5em; display: inline-block; }
+
+.packages--module__active .packages--form--selection { background: rgb(255, 255, 255); }
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/mq-hosted-package.css?ver=1.0.04
+
+@charset "utf-8";
+
+@media screen and (min-width: 481px) {
+  .faq--container i { float: right; }
+}
+
+@media screen and (max-width: 734px) {
+  .checkout-progress--link { margin-bottom: 1em; }
+}
+
+@media screen and (min-width: 735px) {
+  .hide--small { display: inline-block; }
+  .checkout-progress--link, .checkout-progress--selection { font-size: 1em; }
+  .checkout-progress--proceed { position: absolute; right: 0px; top: 0px; }
+}
+
+@media screen and (min-height: 985px) and (min-width: 768px) {
+  .body--hosted-page { padding-bottom: 3em; }
+  .checkout-progress { bottom: 70px; }
+  .footer { bottom: 0px; left: 0px; position: fixed; }
+}
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/mq-hosted-package-selection.css?ver=1.0.07
+
+@charset "utf-8";
+
+@media screen and (max-width: 1029px) and (min-width: 605px) {
+  .packages--module--title-wrap, .packages--module--meta-wrap { display: inline-block; vertical-align: top; }
+  .packages--module--title-wrap { width: 40%; }
+  .packages--module--meta-wrap { padding-left: 2em; width: 300px; }
+  .package-button { cursor: pointer; text-align: left; }
+}
+
+@media (max-width: 767px) {
+  .header--nav__with-menu { text-align: center; min-height: 72px; }
+  .header--logo__float { margin-bottom: 1em; }
+}
+
+@media (min-width: 768px) {
+  .header--nav__with-menu { text-align: right; }
+  .header--nav__with-menu li { display: inline-block; }
+  .header--logo__float { left: 0px; position: absolute; top: 15px; }
+}
+
+@media screen and (min-width: 1030px) {
+  .packages--module { display: inline-block; min-height: 500px; width: 32.07%; }
+  .packages--module h2 { border-bottom: 1px solid rgb(235, 235, 235); font-weight: bold; margin-bottom: 0.5em; padding-bottom: 0.5em; }
+  .packages--button--wrap { bottom: 15px; position: absolute; width: 90%; }
+  #first-type { order: 1; }
+  #second-type { order: 0; }
+  #third-type { order: 2; }
+}
+
+@media screen and (max-width: 1170px) and (min-width: 1030px) {
+  .package-button { cursor: pointer; padding-left: 1em; text-align: left; }
+}
+
+@media screen and (min-width: 1170px) {
+  .package-button { cursor: pointer; text-align: center; }
+}
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://g1.newsweek.com/www/css/oct2015/media-queries.css?ver=1.0.04
+
+@charset "utf-8";
+
+@media (max-width: 767px) {
+  .header--link { margin-bottom: 1em; }
+}
+
+@media (min-width: 768px) {
+  .show--small { display: inline-block; }
+  .header { margin-bottom: 2em; min-height: 72px; }
+  .header--country-select { margin-left: 3em; }
+}
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://g.europe.newsweek.com/www/img/home/logo_newsweek.gif
+
+GIF89a( æ  ÿÿ••ÿ‘‘ÿøøÿÜÜÿââÿÿzzÿÿaaÿ99ÿ??ÿ††ÿààÿ
+
+ÿÒÒÿ55ÿrrÿÚÚÿ™™ÿññÿkkÿuuÿ„„ÿÿööÿppÿÿ}}ÿººÿ¸¸ÿ¬¬ÿÄÄÿÉÉÿÏÏÿÌÌÿÿÿ¼¼ÿBBÿææÿääÿffÿ22ÿŞŞÿ¯¯ÿ$$ÿxxÿ´´ÿ  ÿTTÿ((ÿÿ€€ÿ""ÿûûÿhhÿ¾¾ÿÎÎÿbbÿ²²ÿÆÆÿ¨¨ÿZZÿ,,ÿXXÿÊÊÿRRÿ00ÿ\\ÿªªÿddÿHHÿ¤¤ÿFFÿŠŠÿLLÿnnÿOOÿ››ÿ@@ÿÿÿPPÿÿ‚‚ÿ&&ÿ..ÿÀÀÿvvÿÿœœÿÕÕÿ<<ÿJJÿˆˆÿ¶¶ÿ^^ÿ**ÿ  ÿDDÿÿŒŒÿ°°ÿÿ¦¦ÿ¢¢ÿVVÿ××ÿòòÿííÿüüÿşşÿØØÿèèÿôôÿîîÿêêÿõõÿóóÿëëÿııÿïïÿllÿééÿììÿ  ÿÿÿ!ÿXMP DataXMP<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c067 79.157747, 2015/03/30-23:40:42        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)" xmpMM:InstanceID="xmp.iid:C69F47EF741911E5BD6480A8D1129800" xmpMM:DocumentID="xmp.did:C69F47F0741911E5BD6480A8D1129800"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:C69F47ED741911E5BD6480A8D1129800" stRef:documentID="xmp.did:C69F47EE741911E5BD6480A8D1129800"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ÿşıüûúùø÷öõôóòñğïîíìëêéèçæåäãâáàßŞİÜÛÚÙØ×ÖÕÔÓÒÑĞÏÎÍÌËÊÉÈÇÆÅÄÃÂÁÀ¿¾½¼»º¹¸·¶µ´³²±°¯®­¬«ª©¨§¦¥¤£¢¡ Ÿœ›š™˜—–•”“’‘Œ‹Š‰ˆ‡†…„ƒ‚€~}|{zyxwvutsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)('&%$#"! 
+	  !ù     ,    (  ÿ€(m„…„y7~‹ŒNv†’„7D˜™š›œŸ ¡¢£¤¥¦9ƒ“m§Œ¬³´µ(Rœ2µ»¼+°¿ÀÁÂÃÄ§B¼µt¯¿²È´œCÎÈ¾ÅÖ×ØÙÚ!ÓnË°ÍŞ›ÒŞµÕÛëìíî™İÓàÀãŞdšçè³êïışÿÀâ9›ÇLß,:h2é2ø‡À‡#f:&/Ü©zŞ:(dØP¢Ç"#«M.Á„ É<=¡râ 8s®£2À‰‘-`ÈdS dt*]ªÍĞaC°¡iR¦X³sñTXTƒ=ª^õdÀ".‚.u0c„Zÿ5QĞEµ¢\!ÃD‰-¸ò"	ì«Á ™¬òJº‰J}jÍÉAbF¦=ØhŞÌ™:
+À¦@ËŒ ô!ĞysTmøÁãN­>~,b Á„o,ş®nİN„FCHˆscG£(!øg#aÀMLJ4Øe§ƒywğ˜Ã«Ç›ïrcÀ‘9Ó97h`e“aƒE0)ŞÅÓ0ú€àB#50t#àQK9Œ@¡j~LaÛ4 Q/kHÁĞøP‹	8 :8`¢ú°Á'À¡Oía¢^-n¬8GWØÇÑ,@èÇ~µôÇˆ
+;&ÀH¸ˆÿƒµ„ÅÈ}È Æ€A}ğÁ‹Ä #QÈQKe è:*0"¡0à&cÀ‘>ú1#-5ú!:@è¸ã4$-BúaÆì±’ú(é¼@%/õE@h-X2´å"]ğRæ"ŒéÍ¦cÔ±çkb¡mÄ¶Èœ³Ôy§7yjòè‹Œü9‹KLú‡~` #&ğbÁ“ú8¥®Tª%#Œî‚˜dú!E“Æ±b#3ØQíµr´â«ÓÄšÉ¬úljëı1áMrh‹Œ~hğ«ZLX‹Ä¢³ÓÈƒ -xŠŒ²ú\êGÈÔç‡t ÆÁŞÔÇ Î¼ÈÿÓ‚»¼0Øí`ßr$.&ê":ŠœË˜‚8SxA1/
+,äŒ‹³(9…3Õü4Î»ÜàÂïÆ¸ÈÎŒ8sèäñ¢§#şÁ42P¬0Hpz/o„¹¿ÎÄ‘ã"_ï’\¬~cã,7 íÌ%²"ÓBúàÇ”‹=Íq¬ğ/&”ÁÄ^ò‚2ü [8Ã ?È°»| €@p¼‹ ™ -µ?(à2x8D±şàŒF~ÀÄ+ğMKJ aÆ¼Ô#Y óÂ"ZœÌQ`Bö.€·íFòN0qšÎÀD¸ÔÍË?êSCc±áLÿšHJó"çÂ‹	Î8Ùï³å‡ÖÎ<Àí"cäñÇüŞ_sÓ3Ş@LªfX„ëœ¡›LÀoXX¦M<€°s^8Ì7‡ho}òƒĞ1€ªñÇ>CÆÃ2AƒÁíbX~P×Ào(‚ô£nò1gà!<ôÃh@‘c¢ŒWÄ4‚}Î€!#ÜT‹®ùáÎĞ›&&¸‹ ætÈÁ&šU
+àBƒók2 ŠG…Pú#TR0àŒ<.ÜE8%*^°qDš†Å884‚ŠÓxvpÇN´ (HŞ"fàgáp=71@Ëx±GM( ÿ]ğƒy1M¤°Šh
+üHd4AndD&5¬T ƒh‚v¹Ëà€¼°¤’€32‚˜Ó##0W‹©1"mú$7@dxG@G©–7,¢†ÎA@Îr¾à	ÈpB’i†¸ó C†nÚV€`!ƒ¿k#2B¸:îÉPˆDÖâÀ$8#‹ €Àx¶¨í¢T~ äŞ€ b"AÈ(å"bâÀA¬ÎñƒZ‹€“¤(GÛ2BŠX6‚")‘U€k€Zœ\„AÑQƒEà­Â¡`ÅLxˆh FéŒúÁ)µ¸zH‡ÒY¨@†(ÿ]ÉJ½¡ÑP¸”TˆCÊ„‘I¡Àh‘ã…nb»i¨/»èi&É5bòƒr‰ìÂ©~ø)J`3’&p«Ÿ‚å>3‘ƒ”HA(­)#[‹üPO~ØN-°	àtG†b‰çh±GDycxÈ¤…ÇÖ08ôïµ°íßvpÊ.ÖÁ¸Í­nu›ÒîÉƒz¡&ÚŠWJÀpOfÀÜæ:—¹@€¨¬DJ?Œãj¼Ø vqÖNà@³DñH¤^qr£…!ã°‹P.iˆ9¢|çkÄ1øa§ÈØ’öËßşö íAlfv¼ûqâ«˜ £>†E´ãıš´ÿ¼já# #tíj'€Àãt˜(l-p0BZàBHİç$»¨"C®¢èXF±U|åÊì‚¡…Ä¡cÎ`'ˆà’Ù
++(2 YZ$ S¼ @“gáL¬ 	Èr"pÃù]  ÷ÌÄ‘‘Ï} .¬ÅPÇYhØ`¦6€)L	xv‚ÚóÙ]XŒÇ;C€0Üd¥%`ÄkáÑ/vøõFRjK‹<Ğ‚¼p—|ì¥yw L#ˆû0d	œŞÅ¦Ú,êƒ~¸¬7äwLg´`PŞ…eÊ@šH'ùé]TPÇŞ]Çÿg«j¢mÈ\ÑQ‡öpÔ¦Æ©o`_LHºQÊ„`½q e«5{Œ1-ê€_íBíÁ+w§ÙtîBÈOíÊ"([94’- ÁÀÕÀ ›Â3§Á˜ÔO(nï©õÁFyG1ç…!3Ñà.şÛ ˆŒ7ä<*[ãš`o~31ƒJìD±ës-`ÌˆOòB Lx€¬iq DıÌØ°ğ u” Æ„š¨†Úk#(•^‚fb2çE~èutZˆãík¤¼.l"µÎğõ":ŒFË¾áøÁÓi1¼EøÕ1x\DÇ‹´r+a„-Éÿ†ÌÙ“’fÄİËfœ|n¯•72pGW·O_Z.p€Ì½ofD5§Ñ@?`Æqb„‚yq6Œ€©µÀ¥×ŞÚ€ì¶ğßßˆ2t=g…7Èá·ÈğFL›P0&1ØÙİ^Dæ‘åŞL8Ôs¸#bİ—	 d!ug„¾o‡ùÓW2á°ß×bøš8ş	?Ô‘]´ÈÈB#®E5bú“âD›Àk¼m 7UĞ	4@~Ş v˜€àÅ‡w~¼‡	à3~QLà~ræ	%6°{ú@ÀÕi…]¶jà$‡yDŞcøğ7˜°x¼plœàÿ T—"œ` ×fƒÈ~ğƒjöàÀ³t›pÈ`WŒ`lç``šiµ > n³ ƒŒ@j± LGÎÔ	 `B»àh€{³Ğ]Ÿ æqÀY° 8Xà# D(~à¶; >p *ˆŠ¸ˆ‰ÈÕw`°ˆP‚~@MğPs0mP !PE`Qà 8€ˆ’XTŒ  {`ŠŠ8‰E’Xe‹P;9P s < ¢Àˆ X¸¿¸ˆ ‹¡ Ğ"xP0p ö ,@  ¬–X¦eä˜e\¶	@ ;@;PhPHp  ;
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: binary
+Content-Location: https://g.newsweek.com/www/img/home/error-messaging-failure-icon.jpg
+
+ÿØÿá Exif  II*            ÿì Ducky     <  ÿá1http://ns.adobe.com/xap/1.0/ <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c067 79.157747, 2015/03/30-23:40:42        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)" xmpMM:InstanceID="xmp.iid:721A618A1C2211E58EF9DCDA1114E2CD" xmpMM:DocumentID="xmp.did:721A618B1C2211E58EF9DCDA1114E2CD"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:721A61881C2211E58EF9DCDA1114E2CD" stRef:documentID="xmp.did:721A61891C2211E58EF9DCDA1114E2CD"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ÿî Adobe dÀ   ÿÛ „ 		
+
+
+
+ÿÀ  , , ÿÄ ¢                               !1AQ"a±#q‘¡Rb‚B’¢3s$4  
+       1A!aqÁ"2Q‘¡±Ñ#3$áBbr‚R’²ÂcÿÚ   ? ¶Ûkî•ì[íì*¦²¥A²)GàòNÀ1 „…Hı10ˆ(8‘Ô&“.Šúx°Ğ°İN¦Q¹W)T¨R‘NÙß¦U¹ï€öaÜ±$M^SêuëãÄ3L·†ZTz‹·8cÑè½D‚Š[% Âi)šÃtÆXı¸=0T$ºœ[Öj!µQbä}ã"÷Ò.]˜-9fb‘_ÂõE2Òaü°”ŸÜÇ(’P”[¬Ñ)‰§à)¥JÌ­®Ü½ÔŞİtiÔîûŠ”UÁm(îKÉw‡Ø`0–nIP²–T2àÄğ§öNF*ª?·»´/°¨ŸÓî‡bÛ§üÉTØ7 "J[¦
+€ü…3d0úí—$¥ó¤ûKos‹‡IøpéÎ¯…Zxf!ÄÃ×«ÆŸ¨µM±TóMåéÌˆqiLJ;Äıâ³(¹¡°àØÕ “RHÍåT\¡ãÒw]w§V'ZœqTä©k%J&uo'äÍ°“ gX‘$SñH‰„ö¢õ´TµÔoQÕ´—©j¦Şib)R AÁ
+I0è	áET5’ĞlRM¤b[ô¥ÿ V<Ÿ2²<^>c·%$cù¥ğGóbwƒñìêÔ6Oú2öÎ/çcõÑñĞ)­;JÍ%‚ÛJÊeeŠV[m=ÉK`PC&$‹0Èg¢ã­GI­GÖ41ö÷Ô;iOQV¡½tŒ)_o‰?‰ëÏÍæSd2Õ¨=úX„£§z|$@6ÕïTIüNJyIĞ3lDfsñ¾óX$%ü®ÏÜÒA›åyyÿ Fb8¸VVî°Óˆ_dİ›W¹İ`ç§w¶ïz&ÍpJ‚–ºfÛ~48nZN<–ˆü2<ÃÛòPåç"C©ã2ĞyK¨c¸TıVg£êÔéV«~­»±§n)¦âğ¢©#¨G~ÎöÚóŞ]êRŞ”p=æS‘µ†NM™:bØ,ŠR­"%.i‹PğÍ4p|\'wX$¯3Œs+¶ó^7´|u …×Øõ·ËüDğyf^ë›1îş×ã€x‚âúzé^Ò¯g·f[Vş¿È*:'Õ´½jì÷g
+l•Ë
+KÇh§xÁ3ŸĞ <]Ûûğ¶BnÌİVé‹lY‡qxÈ*?Qri*…4Ó­:Úiiq¥€¤-$©$DFğq@F2$Òl<†AWÔ¾ŠÖkH/]¤O¶K+iK1AQŒB†ù°¶jDâ­æ°Z\­2öJ†jÚ3kYO0`éK"¬znÛg[¡õĞ°†Tğ…ˆL0tn “È%ï²˜˜\R&>£6^¤uÕ£m
+uÅ%ë«é"‚„•ºuÆÒwŸpÇ©¤ÂNzƒŠâ‹?…’o+Qg>ºóÎy˜W4Ìfó1ñqfo¿vŠyêé_
+ÆÅ®³5Á€PntƒÖNòì¼l¼Îlœc·‡›¿g~É[ü»¹èØŸÚ[ê<ïóßç«÷
+‡›p{/Ç—oy&ıÛa‡‰z±–Æ²{açs³P×^¬eå^_	<fÍF8\_“üØbÙ›×Ü\şØ÷©´ş¼ìÚèÎ¢çüâ§Ÿæ9´ßìæ¦âÇ²3vCwd7bv+ÏÛÃf‘°²Mƒ¶U;@ÍÇ0XÿÙ
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: binary
+Content-Location: https://g.newsweek.com/www/img/home/error-messaging-success-icon.jpg
+
+ÿØÿá Exif  II*            ÿì Ducky     <  ÿá1http://ns.adobe.com/xap/1.0/ <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c067 79.157747, 2015/03/30-23:40:42        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)" xmpMM:InstanceID="xmp.iid:721A618E1C2211E58EF9DCDA1114E2CD" xmpMM:DocumentID="xmp.did:721A618F1C2211E58EF9DCDA1114E2CD"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:721A618C1C2211E58EF9DCDA1114E2CD" stRef:documentID="xmp.did:721A618D1C2211E58EF9DCDA1114E2CD"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ÿî Adobe dÀ   ÿÛ „ 		
+
+
+
+ÿÀ  , , ÿÄ —                          	       !1AQaq‘¡"Brb3$±á2‚²#C4%         !1Aağ‘¡Á"2#Qq±ÑBñRbÿÚ   ? ­¡¡¬¯¬j¥?Tú‚i%DÙZI€Pìaq ’šö§CôŠV‘Q¸kªÈÒ¶¥!„âS/Ø<,Æ•˜lU¶ÒÆˆ¿Ä{Ç’ìM2ª‹L¤R %ZB•İ„Mˆ‘ƒ@¨³F¥Sé®ÅÕéîÓYbaê(€dÈŒ¿púA·.·c´YÔ°¢ñåLŞşé¥µˆªif³IZ¥MHLÙ8%ÔŒ#Ø¬†_^Ü³İ½Ôq·¦kaÒôíÑ=¢ÕÏêİB"œ‘z|äGÊgiJmJ¥Ú­ƒY9ÍßeEÔşª×šçôMóNÃ·WZÙƒ‹X¹Hm_
+Rnˆ¼Ÿr¸¹1•¨mÃqtÅŒ0†e­kZÔµ¨©j$©DÄ’o$“`RBbµ{0ïúÖvëOª†˜Æ¨y•À ['ß€ÆQámèó-ÉiÏh/§GWRsÚû‡JŞ›h¼¶RPòUO_F¯x%d{ÉñƒftŞ*5Q[×mzqú…~İ½÷éy•Ãffgöğ²æMóKîüÖ]Èõ%SşÄû^É¹nò}†§©DŸ¥•°<Y§Š¦Ìc+0Ğ*"ytb?Vı‚6éGM´}[L:î²bRÛ§¤™A)””©nJ‰Àz|„¶·RºÁlïÆ:.Õ
+'t$3Q.Ü\]YŒ_DäˆãÅ÷c~>›?ù];gõ0>ŸoÉ)ÆÛÚ7øètºü’„i$úIñ±¸4| N|ÙğhF+×é+ú¸FšÇ¦W5Å6Æ-8„J"Vj”a`íGC"”mõÃ«¾Qœz¿•¾åÔß\ó	QË2fü9óX©Dñà™È9³k/zã´k)·Å¢.ÑSIÂÕŒÉFK¾Ğmå#;ÉslñVˆâ!ùBûqë½:ÜÕ:uRí\–²“ ´ü/5SxïÌ¨êNÉ £]öµNZğØÜÚÚ=EZ9\™Š¨& bÄ(¥Æ7Y˜¨ÒÙ£‚£ØY<|(¨}C¬İ5™,ÌÆÂ¿OOYf9‹¸vY]zåç‚š¾¾5ŒsĞ¹QOK[®Ô ¡5`1GKi1q^EPÊÄÙS€.Lvzó®J÷êÖ>îryÆWÃC³‰›?Ëòîó¶¼ßV>ä{©?ÏndsÒ ··«¦êK#H¬PVf!—Lÿ *…ÊõØ;jò’­¶ôR2»Ê{ÆïØzï¤m×U—T8]Eˆ(Èo ö-ÇöV‹jêæÍ•Æ9üQWCw‹ELSVR¿J¥"ãÄá2RDG6Ù¿B”;hª0A]m„%§ÑQ¸jĞúcÁSM*¡Ø·¨w€=6Ò—ö+{}5x±Ş»ÏHÙÚ2Zi(ãKriÔ€ ¨¤iıÂÄVª)„}ÕÓh3ƒ¦‹ÎœÛQæ¼Û=\Ã;‰â>,Ù§›×e3ÇU+ÍtóÇÅ¨–åf’:c÷C,rr˜Ÿ÷ãÂF7Éñã_¦Æ[ó\¸¦û¹‡ƒËÇ.Ÿ$ßEÍ²G‘Ÿ-ù3É7ó_1ÕP¶hc›Şrøeı=ÁK)šq1üŸÚõÛ*¼ÏÖ[¯qN^ÿ ÂóÎµÎ9›üã;™Mú&lÈøÍ~YKãsRÕ§˜Ï¸¨Våd¿ÿÙ
+------MultipartBoundary--Jrv6Zr7kcnd30BcH0Oka6KO7ocV2eciNoSW3IC3JXT------
